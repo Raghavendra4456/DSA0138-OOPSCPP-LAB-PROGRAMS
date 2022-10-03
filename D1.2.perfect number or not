@@ -1,0 +1,24 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+	int number,i,sum=0;
+	cout<<"Please Enter te Number to check for perfect=";
+	cin>>number;
+	for(i=1;i<number;i++)
+	{
+		if(number % i==0)
+		{
+			sum=sum+i;
+		}
+	}
+	if(number==sum)
+	{
+		cout<<number<<"is a perfect Number\n";
+	}
+	else
+	{
+		cout<<number<<"is not a perfect Number\n";
+	}
+	return 0;
+}
