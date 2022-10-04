@@ -9,9 +9,9 @@ DAY - 1
 7.perfect numbers using class & object
 8.factors of a number
 9.
-10.
-11.
-12.
-13.
-14.
-15.
+D1.10.mean,median&mode
+11.sum of digits of n numbers
+12.Armstrong number or not
+13.Remove duplicates
+14.multiplication,division using class mechanism
+15.perfect number & sum of digits
