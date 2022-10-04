@@ -18,9 +18,6 @@ D1.10.mean,median&mode
 
 
 DAY - 2
-1.
-2.
-3.
-4.
-5.
-
+1.area of circle,rectangle,square&triangle
+2.aritmetic operators
+3.swap two numbers
