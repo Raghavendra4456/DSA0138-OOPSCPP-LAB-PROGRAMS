@@ -21,3 +21,5 @@ DAY - 2
 1.area of circle,rectangle,square&triangle
 2.aritmetic operators
 3.swap two numbers
+4.
+5.Employee details
