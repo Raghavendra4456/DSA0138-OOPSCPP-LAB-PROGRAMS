@@ -24,3 +24,4 @@ DAY - 2
 4.
 5.Employee details
 6.Eligibility
+7.particular person eligibility
