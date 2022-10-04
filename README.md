@@ -26,3 +26,4 @@ DAY - 2
 6.Eligibility
 7.particular person eligibility
 12.student marks in 4 subjects
+13.reverse order
