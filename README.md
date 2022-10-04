@@ -25,5 +25,6 @@ DAY - 2
 5.Employee details
 6.Eligibility
 7.particular person eligibility
+10. fibonacci series
 12.student marks in 4 subjects
 13.reverse order
