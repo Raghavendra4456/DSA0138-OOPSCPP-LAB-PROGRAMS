@@ -8,10 +8,19 @@ DAY - 1
 6.LCM & GCM
 7.perfect numbers using class & object
 8.factors of a number
-9.
+9.composite numbers between a&b
 D1.10.mean,median&mode
 11.sum of digits of n numbers
 12.Armstrong number or not
 13.Remove duplicates
 14.multiplication,division using class mechanism
 15.perfect number & sum of digits
+
+
+DAY - 2
+1.
+2.
+3.
+4.
+5.
+
