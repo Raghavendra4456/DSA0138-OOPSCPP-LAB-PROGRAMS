@@ -30,4 +30,5 @@ DAY - 2
 12.student marks in 4 subjects
 13.reverse order
 15.Electricity bill generation
+17.adding 2 numbers using friend class
 18.reverse order by usingcall by reference
