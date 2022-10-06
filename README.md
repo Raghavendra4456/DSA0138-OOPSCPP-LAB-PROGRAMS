@@ -32,3 +32,4 @@ DAY - 2
 15.Electricity bill generation
 17.adding 2 numbers using friend class
 18.reverse order by usingcall by reference
+19.3 student details
