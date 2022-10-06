@@ -33,3 +33,10 @@ DAY - 2
 17.adding 2 numbers using friend class
 18.reverse order by usingcall by reference
 19.3 student details
+
+
+DAY - 3
+1.
+2.Rectangle Area
+
+
