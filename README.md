@@ -36,7 +36,7 @@ DAY - 2
 
 
 DAY - 3
-1.
+1. unknown student class
 2.Rectangle Area
 3.piggie bank
 5.different datatypes having parameters
