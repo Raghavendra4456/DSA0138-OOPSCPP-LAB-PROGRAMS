@@ -1,5 +1,6 @@
 # DSA0138-OOPSCPP-LAB-PROGRAMS
 DAY - 1
+
 1.maximum of 3 integers
 2.perfect number or not
 3.Reversing strings
@@ -18,6 +19,7 @@ D1.10.mean,median&mode
 
 
 DAY - 2
+
 1.area of circle,rectangle,square&triangle
 2.aritmetic operators
 3.swap two numbers
@@ -36,6 +38,7 @@ DAY - 2
 
 
 DAY - 3
+
 1. unknown student class
 2.Rectangle Area
 3.piggie bank
