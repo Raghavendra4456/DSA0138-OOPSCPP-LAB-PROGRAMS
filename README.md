@@ -57,6 +57,7 @@ DAY - 3
  
 1.sum & product using single inheritance
 2.student results through multilevel inheritance
+5.sum of array integer using pointers
 
 
 
