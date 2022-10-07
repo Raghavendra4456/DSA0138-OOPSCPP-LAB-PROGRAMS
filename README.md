@@ -41,5 +41,6 @@ DAY - 3
 5.different datatypes having parameters
 6.integers having same name but different sequence
 7.area of square&rectangle having different parameters
+9.degree class
 
 
