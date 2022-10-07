@@ -38,5 +38,6 @@ DAY - 2
 DAY - 3
 1.
 2.Rectangle Area
+5.different datatypes having parameters
 
 
