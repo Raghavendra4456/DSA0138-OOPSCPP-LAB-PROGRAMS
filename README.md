@@ -43,8 +43,12 @@ DAY - 3
 5.different datatypes having parameters
 6.integers having same name but different sequence
 7.area of square&rectangle having different parameters
+8.student class with 3 data members
 9.degree class
 10.3 banks& 3 deposits
 11. integers data members
 12.banks in india controllled by RBI
 
+ 
+ DAY - 4
+ 
