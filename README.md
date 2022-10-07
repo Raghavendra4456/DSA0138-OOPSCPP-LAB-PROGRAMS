@@ -38,6 +38,7 @@ DAY - 2
 DAY - 3
 1.
 2.Rectangle Area
+3.piggie bank
 5.different datatypes having parameters
 6.integers having same name but different sequence
 7.area of square&rectangle having different parameters
