@@ -44,4 +44,5 @@ DAY - 3
 7.area of square&rectangle having different parameters
 9.degree class
 10.3 banks& 3 deposits
+11. integers data members
 
