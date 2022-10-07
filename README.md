@@ -55,3 +55,4 @@ DAY - 3
  
  DAY - 4
  
+1.sum & product using single inheritance
