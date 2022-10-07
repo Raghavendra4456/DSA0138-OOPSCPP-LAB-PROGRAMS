@@ -39,5 +39,6 @@ DAY - 3
 1.
 2.Rectangle Area
 5.different datatypes having parameters
+6.integers having same name but different sequence
 
 
