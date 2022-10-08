@@ -60,6 +60,7 @@ DAY - 3
 3.updating accounts
 4.area of circles using pointers
 5.sum of array integer using pointers
+6.Hybrid inheritance
 
 
 
