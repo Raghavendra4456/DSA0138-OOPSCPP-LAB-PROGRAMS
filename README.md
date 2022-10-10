@@ -33,6 +33,7 @@ DAY - 2
 11.comparision between 2 strings
 12.student marks in 4 subjects
 13.reverse order
+14.Raise the power by recursion
 15.Electricity bill generation
 17.adding 2 numbers using friend class
 18.reverse order by usingcall by reference
