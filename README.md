@@ -30,6 +30,7 @@ DAY - 2
 8.decimal to binary numbers
 9.simple intrest
 10.fibonacci series
+11.comparision between 2 strings
 12.student marks in 4 subjects
 13.reverse order
 15.Electricity bill generation
