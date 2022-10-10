@@ -38,6 +38,7 @@ DAY - 2
 17.adding 2 numbers using friend class
 18.reverse order by usingcall by reference
 19.3 student details
+20.net salary of an employee
 
 
 DAY - 3
