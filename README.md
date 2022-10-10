@@ -23,12 +23,13 @@ DAY - 2
 1.area of circle,rectangle,square&triangle
 2.aritmetic operators
 3.swap two numbers
+4.sallest no. among 2 numbers
 5.Employee details
 6.Eligibility
 7.particular person eligibility
 8.decimal to binary numbers
 9.simple intrest
-10. fibonacci series
+10.fibonacci series
 12.student marks in 4 subjects
 13.reverse order
 15.Electricity bill generation
