@@ -68,7 +68,13 @@ DAY - 3
 DAY - 5
 
 
-
+1.mammals & marine anials
+2.print no.of fruits
+3.total no.of marks for each student
+4.info of different vehicles
+5.printing the shapes
+6.RBI banking
+7.Bank functionality
 
 
 
